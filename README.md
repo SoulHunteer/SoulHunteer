@@ -17,3 +17,5 @@ Here are some ideas to get you started:
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SoulHunteer&theme=radical)
 
+I'm BMSTU student and interested in Backend, Data Science, Games and more :)
+
